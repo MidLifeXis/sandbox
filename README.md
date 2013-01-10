@@ -7,5 +7,5 @@ And now for a test of a checklist:
 
 - [ ] Task 1
 - [ ] Task 2
-- [ ] Task 3
+- [x] Task 3
 
